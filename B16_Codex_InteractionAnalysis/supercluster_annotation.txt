@@ -1,0 +1,15 @@
+supercluster	cluster
+N	MDSC_G
+B	B
+CD8	CD8T
+CD4	CD4T
+M	MA
+DC	DC
+Endo	Blood_vessels
+Mo	MDSC_M
+Mo	MO
+Lymp_Ves	Lymphatic_vessels
+NK	NK
+Treg	Treg
+S	Fap
+Tumor	Tumor

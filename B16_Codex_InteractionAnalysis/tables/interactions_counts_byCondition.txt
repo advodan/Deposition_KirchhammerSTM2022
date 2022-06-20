@@ -1,0 +1,4 @@
+condition	sum_counts
+UNT	3472026
+Ad-IL12	4633497
+Ad-IL12+Ad-CCL5	2493991

@@ -1,0 +1,17 @@
+Region,MouseNr,Treatment,Exclude
+Run1_Region1,999,UNT,0
+Run1_Region2,1017,Ad-IL12,0
+Run2_Region1,1014,Ad-IL12,0
+Run2_Region2,1023,Ad-IL12+Ad-CCL5,0
+Run2_Region3,1023,Ad-IL12+Ad-CCL5,0
+Run3_Region1,1015,Ad-IL12,0
+Run3_Region2,1024,Ad-IL12+Ad-CCL5,0
+Run3_Region3,1024,Ad-IL12+Ad-CCL5,0
+Run4_Region1,1016,Ad-IL12,0
+Run4_Region3,1016,Ad-IL12,0
+Run4_Region4,1020,Ad-IL12+Ad-CCL5,0
+Run5_Region1,1021,Ad-IL12+Ad-CCL5,0
+Run5_Region2,1001,UNT,1
+Run5_Region3,1001,UNT,1
+Run6_Region1,996,UNT,0
+Run6_Region2,1000,UNT,0
