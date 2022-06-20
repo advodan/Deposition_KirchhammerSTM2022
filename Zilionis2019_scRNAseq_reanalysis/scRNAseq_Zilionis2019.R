@@ -57,6 +57,7 @@ dim(cellinfo)
 #54773    25
 #####################################
 # This whole part is not necessary to run. this was used to make the sparse matrix only with the NK cells
+# file GSE127465_human_counts_normalized_54773x41861 can be downloaded from GEO and was not deposited here due to size. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127465
 ########################################
 # NK_cells_index <- which(cellinfo$Minor.subset %in% c("tNK1", "tNK2"))
 # length(NK_cells_index)
